@@ -1,0 +1,11 @@
+C:\VSC\Presentation_ConsoleApp\Buisness\bin\Debug\net8.0\Buisness.deps.json
+C:\VSC\Presentation_ConsoleApp\Buisness\bin\Debug\net8.0\Buisness.dll
+C:\VSC\Presentation_ConsoleApp\Buisness\bin\Debug\net8.0\Buisness.pdb
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\Buisness.AssemblyInfoInputs.cache
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\Buisness.AssemblyInfo.cs
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\Buisness.csproj.CoreCompileInputs.cache
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\Buisness.dll
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\refint\Buisness.dll
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\Buisness.pdb
+C:\VSC\Presentation_ConsoleApp\Buisness\obj\Debug\net8.0\ref\Buisness.dll

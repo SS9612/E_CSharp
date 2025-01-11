@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "348572d8-721a-44d4-a6c9-32eedbfdf05c",
+    "FirstName": "Stefan",
+    "LastName": "Strandberg",
+    "Email": "Stefan.m.strandberg@hotmail.com",
+    "PhoneNumber": "0734036682",
+    "StreetAddress": "Barometergatan 44",
+    "PostalCode": "21117",
+    "City": "Malm\u00F6"
+  },
+  {
+    "Id": "3cce6733-dcb1-4bdb-9b04-032c9199e7e2",
+    "FirstName": "s",
+    "LastName": "s",
+    "Email": "3",
+    "PhoneNumber": "4",
+    "StreetAddress": "21",
+    "PostalCode": "",
+    "City": "54"
+  },
+  {
+    "Id": "cf96b11f-717a-4c26-b7a9-1b44b2acc70c",
+    "FirstName": "",
+    "LastName": "123",
+    "Email": "123",
+    "PhoneNumber": "1245",
+    "StreetAddress": "21",
+    "PostalCode": "421",
+    "City": "3412"
+  }
+]

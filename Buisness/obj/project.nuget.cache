@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsMySsjhYZs=",
+  "success": true,
+  "projectFilePath": "C:\\VSC\\Presentation_ConsoleApp\\Buisness\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefa\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
